@@ -1,4 +1,3 @@
-import pytest
 from classify_score import classify_score
 
 def test_cp_scores():
